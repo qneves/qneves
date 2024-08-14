@@ -1,4 +1,4 @@
-# 👋 Gabriel Neves
+# 👋 Hey!
 
 Front-end Developer | Passionate about innovation and learning.
 
